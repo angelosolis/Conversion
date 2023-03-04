@@ -1,0 +1,8 @@
+C:\Users\solis\source\repos\Exercise2-Conversion\Exercise2-Conversion\bin\Debug\Exercise2-Conversion.exe.config
+C:\Users\solis\source\repos\Exercise2-Conversion\Exercise2-Conversion\bin\Debug\Exercise2-Conversion.exe
+C:\Users\solis\source\repos\Exercise2-Conversion\Exercise2-Conversion\bin\Debug\Exercise2-Conversion.pdb
+C:\Users\solis\source\repos\Exercise2-Conversion\Exercise2-Conversion\obj\Debug\Exercise2-Conversion.csproj.AssemblyReference.cache
+C:\Users\solis\source\repos\Exercise2-Conversion\Exercise2-Conversion\obj\Debug\Exercise2-Conversion.csproj.SuggestedBindingRedirects.cache
+C:\Users\solis\source\repos\Exercise2-Conversion\Exercise2-Conversion\obj\Debug\Exercise2-Conversion.csproj.CoreCompileInputs.cache
+C:\Users\solis\source\repos\Exercise2-Conversion\Exercise2-Conversion\obj\Debug\Exercise2-Conversion.exe
+C:\Users\solis\source\repos\Exercise2-Conversion\Exercise2-Conversion\obj\Debug\Exercise2-Conversion.pdb
